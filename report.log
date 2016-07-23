@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.1.24)  23 JUL 2016 15:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.1.24)  23 JUL 2016 16:30
 entering extended mode
 **D:/LearnLatex/report.tex
 (D:/LearnLatex/report.tex
@@ -306,10 +306,10 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
  ) 
 Here is how much of TeX's memory you used:
- 5608 strings out of 493705
- 80558 string characters out of 3144558
- 167720 words of memory out of 3000000
- 8883 multiletter control sequences out of 15000+200000
+ 5610 strings out of 493705
+ 80611 string characters out of 3144558
+ 167765 words of memory out of 3000000
+ 8884 multiletter control sequences out of 15000+200000
  9061 words of font info for 33 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  29i,9n,28p,237b,349s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -322,9 +322,9 @@ nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 msfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.
 pfb>
-Output written on report.pdf (2 pages, 123502 bytes).
+Output written on report.pdf (2 pages, 124807 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
+ 97 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -28,4 +28,10 @@ T.~H. Vu, H.~S. Mousavi, V.~Monga, U.~A. Rao, and G.~Rao, ``Dfdl:
   Biomedical Imaging (ISBI)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
   2015, pp. 990--994.
 
+\bibitem{vu2016histopathological}
+T.~H. Vu, H.~S. Mousavi, V.~Monga, G.~Rao, and U.~A. Rao, ``Histopathological
+  image classification using discriminative feature-oriented dictionary
+  learning,'' \emph{IEEE transactions on medical imaging}, vol.~35, no.~3, pp.
+  738--751, 2016.
+
 \end{thebibliography}
