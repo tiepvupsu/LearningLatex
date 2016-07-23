@@ -1,7 +1,8 @@
 # [LaTeX for beginners](https://github.com/tiepvupsu/LearningLatex)
 [Tiep Vu, Penn State EECS](http://www.personal.psu.edu/thv102/)
 ## [What and why Latex?](https://latex-project.org/intro.html) 
-1. [Why Latex](http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/latex_advocacy.html)
+1. [What's Latex?](https://en.wikipedia.org/wiki/LaTeX)
+2. [Why Latex](http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/latex_advocacy.html)
     * It's free.
     * It's available for many machines.
     * LaTeX files are ASCII and are portable. Because they're ASCII it's easy to discover how someone achieved an effect.
