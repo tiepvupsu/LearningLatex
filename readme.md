@@ -2,15 +2,14 @@
 [Tiep Vu, Penn State EECS](http://www.personal.psu.edu/thv102/)
 ## [What and why Latex?](https://latex-project.org/intro.html) 
 1. [Why Latex](http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/latex_advocacy.html)
-2. LaTeX contains features for: 
-    * Typesetting journal articles, technical reports, books, and slide presentations.
-    * Control over large documents containing sectioning, cross-references, tables and figures.
-    * Typesetting of complex mathematical formulas.
-    * Advanced typesetting of mathematics with AMS-LaTeX.
-    * Automatic generation of bibliographies and indexes.
-    * Multi-lingual typesetting.
-    * Inclusion of artwork, and process or spot colour.
-    * Using PostScript or Metafont fonts.
+    * It's free.
+    * It's available for many machines.
+    * LaTeX files are ASCII and are portable. Because they're ASCII it's easy to discover how someone achieved an effect.
+    * You can use the editor of your choice (I sometimes use Word).
+    * The typesetting's better, especially the maths.
+    * Style changes are neater in LaTeX. Style files for many periodicals exist. Many Word users don't use styles or templates, and there's a limit to what can be done.
+    * LaTeX is extensible. If you want a new feature, you can look around for a free add-on or write one yourself. Pagemaker Additions and Quark Xtensions exist, but usually cost hundreds of pounds (the MathMagic QuarkXTension for writing maths and importing/exporting TeX docs costs over £600).
+    * LaTeX's floats are no more awkward than Word's anchored frames, and the latter don't always work well.
 
 ## Compliers 
 1. [Miktex](http://miktex.org/) (my favorite)
