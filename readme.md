@@ -5,10 +5,10 @@
 2. [Why Latex](http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/latex_advocacy.html)
     * It's free.
     * It's available for many machines.
-    * LaTeX files are ASCII and are portable. Because they're ASCII it's easy to discover how someone achieved an effect.
-    * You can use the editor of your choice (I sometimes use Word).
     * The typesetting's better, especially the maths.
+    * You can use the editor of your choice (I sometimes use Word).
     * Style changes are neater in LaTeX. Style files for many periodicals exist. Many Word users don't use styles or templates, and there's a limit to what can be done.
+    * LaTeX files are ASCII and are portable. Because they're ASCII it's easy to discover how someone achieved an effect.
     * LaTeX is extensible. If you want a new feature, you can look around for a free add-on or write one yourself. Pagemaker Additions and Quark Xtensions exist, but usually cost hundreds of pounds (the MathMagic QuarkXTension for writing maths and importing/exporting TeX docs costs over £600).
     * LaTeX's floats are no more awkward than Word's anchored frames, and the latter don't always work well.
 
@@ -28,8 +28,8 @@
 1. [Summatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)
 2. ... 
 
-## [Settings for Sublime Text and Summatra PDF](http://economistry.com/2012/10/first-pdf-sublime-text-2-latex/)
-1. Add Summatra PDF to path 
+## Settings for Sublime Text and Summatra PDF
+1. [Add Summatra PDF to path](http://economistry.com/2012/10/first-pdf-sublime-text-2-latex/)
 2. [Install package control for Sublime] (https://packagecontrol.io/installation#st3)
 3. [Install LatexTools](https://github.com/SublimeText/LaTeXTools) for editting Latex in Sublime Text 3. 
 4. [Inverse search]
