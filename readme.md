@@ -1,5 +1,5 @@
 # [LaTeX for beginners](https://github.com/tiepvupsu/LearningLatex)
-[Tiep Vu](http://www.personal.psu.edu/thv102/)
+[Tiep Vu, Penn State EECS](http://www.personal.psu.edu/thv102/)
 ## [What and why Latex?](https://latex-project.org/intro.html) 
 1. LaTeX contains features for: 
     * Typesetting journal articles, technical reports, books, and slide presentations.
@@ -41,3 +41,6 @@
 1. [ShareLatex](https://www.sharelatex.com/learn/Main_Page)
 2. [tex Stack Exchange](http://tex.stackexchange.com/)
 3. [Google](https://www.google.com/)
+
+## Others 
+1. [Table Generator](http://www.tablesgenerator.com/)

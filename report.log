@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.1.24)  23 JUL 2016 16:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.1.24)  23 JUL 2016 18:54
 entering extended mode
 **D:/LearnLatex/report.tex
 (D:/LearnLatex/report.tex
@@ -277,14 +277,14 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--61
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
 
  []
 
 <figs/fig1.png, id=25, 301.125pt x 301.125pt>
 File: figs/fig1.png Graphic file (type png)
  <use figs/fig1.png>
-Package pdftex.def Info: figs/fig1.png used on input line 65.
+Package pdftex.def Info: figs/fig1.png used on input line 64.
 (pdftex.def)             Requested size: 90.33818pt x 90.33818pt.
 
 
@@ -294,16 +294,16 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 {C:/Users/TiepAdmin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (D:\LearnLatex\report.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
  [2 <D:/LearnLatex/figs/fig1.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
 
 (D:\LearnLatex\report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 74FA3BE5EDEA1D69B00B7BB70421C1E3;224.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
  5610 strings out of 493705
