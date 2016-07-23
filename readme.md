@@ -1,7 +1,8 @@
 # [LaTeX for beginners](https://github.com/tiepvupsu/LearningLatex)
 [Tiep Vu, Penn State EECS](http://www.personal.psu.edu/thv102/)
 ## [What and why Latex?](https://latex-project.org/intro.html) 
-1. LaTeX contains features for: 
+1. [Why Latex](http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/latex_advocacy.html)
+2. LaTeX contains features for: 
     * Typesetting journal articles, technical reports, books, and slide presentations.
     * Control over large documents containing sectioning, cross-references, tables and figures.
     * Typesetting of complex mathematical formulas.
