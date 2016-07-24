@@ -38,6 +38,9 @@
  "C:\Program Files\Sublime Text 3\sublime_text.exe" "%f:%l"
  ```
 
+## Example 
+ * See file `report.tex`
+ 
 ## Latex sources 
 1. [ShareLatex](https://www.sharelatex.com/learn/Main_Page)
 2. [tex Stack Exchange](http://tex.stackexchange.com/)
