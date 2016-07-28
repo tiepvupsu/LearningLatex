@@ -1,5 +1,6 @@
 # [LaTeX for beginners](https://github.com/tiepvupsu/LearningLatex)
 [Tiep Vu, Penn State EECS](http://www.personal.psu.edu/thv102/)
+[Youtube Video (Vietnamese)](https://www.youtube.com/watch?v=_xR7eel_Q80)
 ## [What and why Latex?](https://latex-project.org/intro.html) 
 1. [What's Latex?](https://en.wikipedia.org/wiki/LaTeX)
 2. [Why Latex](http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/latex_advocacy.html)
@@ -32,6 +33,7 @@
 1. [Add Summatra PDF to path](http://economistry.com/2012/10/first-pdf-sublime-text-2-latex/)
 2. [Install package control for Sublime] (https://packagecontrol.io/installation#st3)
 3. [Install LatexTools](https://github.com/SublimeText/LaTeXTools) for editting Latex in Sublime Text 3. 
+    * [How to install a Package in Sublime using Package Control](http://stackoverflow.com/questions/13124532/installing-packages-in-sublime-text-2)
 4. [Inverse search]
  * In Summatra PDF, Open `Settings/Options...` from menu. Enter the following command into the box: 
  ```

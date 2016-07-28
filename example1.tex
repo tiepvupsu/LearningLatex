@@ -1,0 +1,49 @@
+\documentclass{article}
+\usepackage{enumerate}
+% \usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{graphics}
+%% --------------------------------------------------------------
+\title{A very simple Latex example}
+\author{Tiep Vu}
+\date{July 23, 2016}
+
+\begin{document}
+\maketitle
+
+\section{Problem} % (fold)
+\label{sec:problem}
+Given three real numbers $a, b, c$, solve the equation: 
+\begin{equation}
+\label{eqn:problem}
+    ax^{2} + bx + c = 0 
+\end{equation}
+% section problem (end)
+
+\section{Solution} % (fold)
+\label{sec:solution}
+
+\begin{enumerate}
+	\item $a = 0 $
+	\begin{itemize}
+		\item $b = 0, c \neq 0 \Rightarrow$ there is no solution for equation (\ref{eqn:problem}).
+	\end{itemize}
+	\item $a \neq 0 $. Let $\Delta = b^2 - 4ac.$
+\end{enumerate}
+
+% section solution (end)
+\section{Example} % (fold)
+\label{sec:example}
+Figure \ref{fig:exampl1}.
+
+
+\begin{figure}[h]
+\label{fig:exampl1}
+\centering
+	\includegraphics[scale = 0.3]{figs/fig1.png}
+	\caption{My caption}
+\end{figure}
+
+% section example (end)
+
+\end{document}
