@@ -1,6 +1,8 @@
 # [LaTeX for beginners](https://github.com/tiepvupsu/LearningLatex)
 [Tiep Vu, Penn State EECS](http://www.personal.psu.edu/thv102/)
+
 [Youtube Video (Vietnamese)](https://www.youtube.com/watch?v=_xR7eel_Q80)
+
 ## [What and why Latex?](https://latex-project.org/intro.html) 
 1. [What's Latex?](https://en.wikipedia.org/wiki/LaTeX)
 2. [Why Latex](http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/latex_advocacy.html)
